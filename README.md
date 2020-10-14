@@ -3,7 +3,8 @@ I started to work with Typescript: strict fun! 🦄
 This is the idea that is eventually going to fill this repo: 
 (Prototyping in Figma)
 
-![Affirmationist-demo](https://user-images.githubusercontent.com/35815182/95977013-98c54080-0e18-11eb-9a89-d19431d0b9e7.gif)
+![Screen-Recording-2020-10-14-at-1](https://user-images.githubusercontent.com/35815182/95977675-708a1180-0e19-11eb-8c2f-07a442bcde1b.gif)
+
 __________________________________________________________________________________________________________________________________________
 🌱 It is an app where you can enter your daily affirmations or check others´ to get inspired by theirs 🌱
 
