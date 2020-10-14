@@ -1,7 +1,8 @@
 I started to work with Typescript: strict fun! 🦄
 
 This is the idea that is eventually going to fill this repo: 
-(Prototyping in Figma)
+The design might change as it progresses 🍁
+(Prototype in Figma)
 
 ![Screen-Recording-2020-10-14-at-1](https://user-images.githubusercontent.com/35815182/95977675-708a1180-0e19-11eb-8c2f-07a442bcde1b.gif)
 
