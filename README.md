@@ -1,6 +1,7 @@
 I started to work with Typescript: strict fun! 🦄
 
-This is the idea that is eventually going to fill this repo: 
+This is the idea that is eventually going to fill this repo.
+
 The design might change as it progresses 🍁
 (Prototype in Figma)
 
