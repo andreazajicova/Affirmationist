@@ -1,4 +1,5 @@
-I started to work with Typescript: strict fun! 🦄 ![typescript](https://user-images.githubusercontent.com/35815182/96114584-186d1100-0ee6-11eb-8378-51da40d04020.png)
+I started to work with Typescript: strict fun! 🦄 ![typescript (1)](https://user-images.githubusercontent.com/35815182/96114661-35094900-0ee6-11eb-9e5c-a0b5d20af112.png)
+
 
 This is the idea that is eventually going to fill this repo.
 
