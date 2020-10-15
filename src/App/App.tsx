@@ -40,7 +40,7 @@ function App() {
       { loggedIn ? (
         <>
           <Dashboard />
-          <button onClick={() => firebase.auth().signOut()}>
+          <button data-testid="logout" onClick={() => firebase.auth().signOut()}>
             Log out
           </button>
         </>
