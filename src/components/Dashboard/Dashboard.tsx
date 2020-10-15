@@ -1,6 +1,6 @@
 import React from 'react';
-import AffirmationWall from './AffirmationWall';
-import firebase from '../firebase';
+import AffirmationWall from '../AffirmationWall/AffirmationWall';
+import firebase from '../../firebase';
 import './Dashboard.css';
 
 export default function Dashboard() {

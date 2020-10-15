@@ -1,10 +1,10 @@
 import React from 'react'
-import NewAffirmation from './NewAffirmation';
+import AddNewAffirmation from '../AddNewAffirmation/AddNewAffirmation';
 
 export default function AffirmationWall() {
     return (
         <div>
-            <NewAffirmation />
+            <AddNewAffirmation />
         </div>
     )
 }
