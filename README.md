@@ -6,7 +6,7 @@ The design might change as it progresses 🍁
 
 (Prototype in Figma)
 
-I follow TDD in this project with react-typescript jest testing. 
+This project follows TDD with react-typescript jest testing. 
 
 
 ![Screen-Recording-2020-10-14-at-1](https://user-images.githubusercontent.com/35815182/95977675-708a1180-0e19-11eb-8c2f-07a442bcde1b.gif)
