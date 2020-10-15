@@ -5,7 +5,8 @@ This is the idea that is eventually going to fill this repo.
 
 The design might change as it progresses 🍁
 
-(Prototype in Figma)
+(Prototype in Figma ![figma](https://user-images.githubusercontent.com/35815182/96114772-55390800-0ee6-11eb-8f95-4bd463afeed1.png)
+)
 
 This project adhers to TDD with react-typescript jest testing ![iconfinder_jest_4691287](https://user-images.githubusercontent.com/35815182/96114340-c6c48680-0ee5-11eb-8208-58fcd59bdfdd.png) 
 
